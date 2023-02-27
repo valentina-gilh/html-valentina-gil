@@ -2,7 +2,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 
   //----------------- lecture_02 ----------------------------------//
-    const cardAdj = [{name: "camarones", img: "camarones.jpg"}, {name: "cpp", img: "images/cpp.png"}, 
+    const cardAdj = [{name: "camarones", img: "camarones.jpg"}, {name: "carne_preview_rev_1.png", img: "carne_preview_rev_1.png.jpg"}, 
                      {name: "donas", img: "donas.jpg"}, {name: "fortran", img: "images/fortran.png"},
                      {name: "hamburguesa", img: "hamburguesa.jpg"}, {name: "python", img: "images/python.png"},
                      {name: "camarones", img: "camarones.jpg"}, {name: "csharp", img: "images/csharp.png"}, 
